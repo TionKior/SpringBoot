@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-config/springboot-config.iml" filepath="$PROJECT_DIR$/springboot-config/springboot-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-init/springboot-init.iml" filepath="$PROJECT_DIR$/springboot-init/springboot-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-profiles/springboot-profiles.iml" filepath="$PROJECT_DIR$/springboot-profiles/springboot-profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-test/springboot-test.iml" filepath="$PROJECT_DIR$/springboot-test/springboot-test.iml" />
     </modules>
   </component>
 </project>
