@@ -1,9 +1,11 @@
 package com.tionkior.springbootlistener.listener;
 
 import org.springframework.boot.ConfigurableBootstrapContext;
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringApplicationRunListener;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.core.env.ConfigurableEnvironment;
+import org.springframework.stereotype.Component;
 
 /**
  * @ClassName : MySpringApplicationRunListener
@@ -13,7 +15,11 @@ import org.springframework.core.env.ConfigurableEnvironment;
  * @Description :
  */
 
+
 public class MySpringApplicationRunListener implements SpringApplicationRunListener {
+
+    public MySpringApplicationRunListener(SpringApplication application, String[] args) {
+    }
 
     @Override
     public void starting(ConfigurableBootstrapContext bootstrapContext) {
