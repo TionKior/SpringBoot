@@ -14,10 +14,12 @@
         <module name="springboot-actuator" />
         <module name="springboot-redis" />
         <module name="springboot-config" />
+        <module name="springboot-admin-server" />
         <module name="springboot-init" />
         <module name="springboot-mybatis" />
         <module name="springboot-profiles" />
         <module name="redis-spring-boot-autoconfigure" />
+        <module name="springboot-admin-client" />
         <module name="springboot-listener" />
       </profile>
     </annotationProcessing>
@@ -25,6 +27,9 @@
       <module name="redis-spring-boot-autoconfigure" target="11" />
       <module name="redis-spring-boot-starter" target="11" />
       <module name="springboot-actuator" target="11" />
+      <module name="springboot-admin-client" target="11" />
+      <module name="springboot-admin-server" target="11" />
+      <module name="springboot-admin-server (1)" target="11" />
       <module name="springboot-condition" target="11" />
       <module name="springboot-config" target="11" />
       <module name="springboot-enable" target="11" />
@@ -42,6 +47,9 @@
       <module name="redis-spring-boot-autoconfigure" options="-parameters" />
       <module name="redis-spring-boot-starter" options="-parameters" />
       <module name="springboot-actuator" options="-parameters" />
+      <module name="springboot-admin-client" options="-parameters" />
+      <module name="springboot-admin-server" options="-parameters" />
+      <module name="springboot-admin-server (1)" options="-parameters" />
       <module name="springboot-condition" options="-parameters" />
       <module name="springboot-config" options="-parameters" />
       <module name="springboot-enable" options="-parameters" />
