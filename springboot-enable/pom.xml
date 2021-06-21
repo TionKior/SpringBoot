@@ -33,6 +33,21 @@
             <artifactId>springboot-enable-other</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+
+        <!--mybatis 起步依赖-->
+        <!--<dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>2.2.0</version>
+        </dependency>-->
+
+        <!--自定义的redis的starter-->
+        <dependency>
+            <groupId>com.tionkior</groupId>
+            <artifactId>redis-spring-boot-autoconfigure</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 
     <build>
