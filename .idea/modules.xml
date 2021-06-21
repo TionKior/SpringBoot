@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-admin-server/springboot-admin-server.iml" filepath="$PROJECT_DIR$/springboot-admin-server/springboot-admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-condition/springboot-condition.iml" filepath="$PROJECT_DIR$/springboot-condition/springboot-condition.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-config/springboot-config.iml" filepath="$PROJECT_DIR$/springboot-config/springboot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-deploy/springboot-deploy.iml" filepath="$PROJECT_DIR$/springboot-deploy/springboot-deploy.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-enable/springboot-enable.iml" filepath="$PROJECT_DIR$/springboot-enable/springboot-enable.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-enable-other/springboot-enable-other.iml" filepath="$PROJECT_DIR$/springboot-enable-other/springboot-enable-other.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-init/springboot-init.iml" filepath="$PROJECT_DIR$/springboot-init/springboot-init.iml" />
